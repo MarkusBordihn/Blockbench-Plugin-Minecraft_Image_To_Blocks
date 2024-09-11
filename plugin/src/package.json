@@ -1,7 +1,8 @@
 {
-  "name": "minecraft-image-to-blocks",
+  "name": "minecraft_image_to_blocks",
   "version": "1.0.0",
   "description": "A Blockbench plugin to convert images to block models.",
+  "author": "Markus Bordihn",
   "private": true,
   "main": "index.js",
   "scripts": {

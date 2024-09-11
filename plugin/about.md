@@ -15,30 +15,30 @@ model.
 For the best results, try breaking your image into **different layers**.
 Let's say you're working with an image of a shield.
 
-![Example of different layers](images/soul_shield.png)
+![Example of different layers](https://github.com/MarkusBordihn/Blockbench-Plugin-Minecraft_Image_To_Blocks/blob/main/images/soul_shield.png?raw=true)
 
 The **Layer breakdown** might look like this:
 
 - **Layer 1**: The core shape of the shield.
 
-  ![Example of layer 1](images/soul_shield_layer_1.png)
+  ![Example of layer 1](https://github.com/MarkusBordihn/Blockbench-Plugin-Minecraft_Image_To_Blocks/blob/main/images/soul_shield_layer_1.png?raw=true)
 
 - **Layer 2**: Decorative elements, such as symbols or patterns.
 
-  ![Example of layer 2](images/soul_shield_layer_2.png)
+  ![Example of layer 2](https://github.com/MarkusBordihn/Blockbench-Plugin-Minecraft_Image_To_Blocks/blob/main/images/soul_shield_layer_2.png?raw=true)
 
 ### 🛠️ Creating the Model
 
 Once you've layered your image, you're ready to generate the **base model**. Follow these steps:
 
-1. **Create a new "Java Block/Item"** model.
+1. Create a new **Java Block/Item** model.
 2. Navigate to **File → Import → Import Image to Blocks Model**.
 3. Select your image file.
 
-After the image is processed, it will convert into blocks. 🎨✨ Your result should look something like
-this:
+After the image is processed, it will convert into blocks. 🎨✨ 
+Your result should look something like this:
 
-![Example of the generated blocks](images/soul_shield_example_base.png)
+![Example of the generated blocks](https://github.com/MarkusBordihn/Blockbench-Plugin-Minecraft_Image_To_Blocks/blob/main/images/soul_shield_example_base.png?raw=true)
 
 Now you can adjust and modify the blocks to refine your model!
 
@@ -46,7 +46,7 @@ Now you can adjust and modify the blocks to refine your model!
 
 In this example, I added a few extra blocks to finalize the model with some additional texture. 🌟
 
-![Example of the final model](images/soul_shield_example_final.png)
+![Example of the final model](https://github.com/MarkusBordihn/Blockbench-Plugin-Minecraft_Image_To_Blocks/blob/main/images/soul_shield_example_final.png?raw=true)
 
 Notice that I used the **original texture** for the final look, rather than the individual layers.
 Layers are primarily useful for structuring your model's base.
@@ -58,7 +58,7 @@ In this case, the final model consists of only **12 blocks**. Be sure to adjust 
 
 Here’s how it might look in Minecraft:
 
-![Example of the final model in the game](images/soul_shield_example_game.png)
+![Example of the final model in the game](https://github.com/MarkusBordihn/Blockbench-Plugin-Minecraft_Image_To_Blocks/blob/main/images/soul_shield_example_game.png?raw=true)
 
 ## ⚙️ Import Options
 
